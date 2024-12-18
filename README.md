@@ -1,4 +1,4 @@
 # Future-friendly
 This is my first repository. 
 <br>
-Author - Chandani yadav
+Author - Chandani yadav (student)
